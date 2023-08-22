@@ -27,5 +27,5 @@ Meanwhile, add some url link and UI interaction in this web development.
 git clone https://github.com/runpumeng/LOL-SkinStore.git
 cd LOL-SkinStore/
 ```
-Open the html file on your browser
+Open the html file on your browser and start to enjoy it!
 
