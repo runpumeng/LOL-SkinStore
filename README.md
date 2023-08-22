@@ -1,5 +1,9 @@
 # LOL Skin Store
 
+## What is this
+Use HTML and CSS to create a League of Legend Skin Store, use some bootstrap library and images to polish the web page.
+Meanwhile, add some url link and UI interaction in this web development.
+
 ### HOME
 <img width="1325" alt="Home" src="https://github.com/runpumeng/LOL-SkinStore/assets/112782995/1bceb58e-5c31-4804-83e0-c5ecb33196e5">
 
@@ -17,3 +21,11 @@
 
 ### CONTACT
 <img width="1324" alt="Contact" src="https://github.com/runpumeng/LOL-SkinStore/assets/112782995/26c1fdeb-2819-441b-8a4d-dde47762f282">
+
+## How to browse this web on the local
+```sh
+git clone https://github.com/runpumeng/LOL-SkinStore.git
+cd LOL-SkinStore/
+```
+Open the html file on your browser
+
